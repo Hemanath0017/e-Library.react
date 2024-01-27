@@ -1,0 +1,7 @@
+.mainnav{
+    background-color: lightgray;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   height: 40px;
+}
